@@ -1,16 +1,18 @@
-## I'm CH 👋
+## Hello, i'm Sapientia👋
 
-<!--
-**SapientiaEtNatura/SapientiaEtNatura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🌱 I'm currently learning **C# and it's fundamentals**
+-🎯 Goals: **PHP, ASP NET, Xamarin and Java**
+-🎓 Currently studying **Systems Analysis and Development at UniFacema**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+<div style="display: inline-block; vertical-align: middle;>
+  <img align="center" alt="CH-Cs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  
+  
+  
+  
+  
+  </div>
