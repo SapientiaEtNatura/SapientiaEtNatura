@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm CH 👋
 
 <!--
 **SapientiaEtNatura/SapientiaEtNatura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
