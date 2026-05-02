@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Olá, eu sou Carlos Henrique
 
-<!--
-**SapientiaEtNatura/SapientiaEtNatura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor em constante evolução, focado em aprender e construir soluções com boas práticas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎓 Estudando atualmente: **Laravel, PHP, Java e Spring Boot**
+- ⚙️ Experiência prévia com: **C# e .NET Framework**
+- 🐧 Uso Linux como ambiente principal (Fedora)
+- 💡 Interesse em backend, APIs e arquitetura de software
+- 📚 Sempre buscando evoluir como engenheiro de software
+
+---
+
+## 🧠 Tecnologias que estou estudando
+
+### Backend & Linguagens
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+### 🔥 Estatísticas gerais
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SapientiaEtNatura&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+### 💻 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SapientiaEtNatura&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 📈 Gráfico de atividade (commits)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SapientiaEtNatura&theme=tokyo-night)
+
+---
+
+## 🎯 Objetivo atual
+
+- Evoluir como desenvolvedor backend profissional
+- Aprofundar em **Java + Spring Boot**
+- Dominar construção de APIs escaláveis
+- Melhorar arquitetura e design de software
+
+---
+
+## 📫 Contato
+
+- GitHub: [SapientiaEtNatura](https://github.com/SapientiaEtNatura)
+
+---
+
+💡 *“Code is not just logic, it's structure of thought.”*
