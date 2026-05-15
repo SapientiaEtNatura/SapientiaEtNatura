@@ -29,18 +29,6 @@ Sou desenvolvedor em constante evolução, focado em aprender e construir soluç
 
 ---
 
-## 📊 GitHub Stats
-
-### 🔥 Estatísticas gerais
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SapientiaEtNatura&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-### 💻 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SapientiaEtNatura&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 📈 Gráfico de atividade (commits)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SapientiaEtNatura&theme=tokyo-night)
 
