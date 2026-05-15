@@ -16,10 +16,7 @@ Sou desenvolvedor em constante evolução, focado em aprender e construir soluç
 
 ## 🧠 Tecnologias que estou estudando
 
-
-
 <p align="center">
-  ### Backend & Linguagens
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,linux,cs,dotnet,docker,spring,java,php,laravel" />
   </a>
